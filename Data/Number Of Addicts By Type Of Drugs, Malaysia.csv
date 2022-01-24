@@ -1,0 +1,164 @@
+Year,drug_type,Value
+2004,Opiate,0
+2005,Opiate,0
+2006,Opiate,0
+2007,Opiate,0
+2008,Opiate,0
+2009,Opiate,0
+2010,Opiate,0
+2011,Opiate,0
+2012,Opiate,0
+2013,Opiate,16035
+2014,Opiate,14496
+2015,Opiate,16616
+2016,Opiate,16985
+2017,Opiate,10154
+2018,Opiate,7746
+2019,Opiate,7938
+2004,Heroin,12796
+2005,Heroin,13914
+2006,Heroin,7963
+2007,Heroin,4752
+2008,Heroin,4974
+2009,Heroin,5047
+2010,Heroin,6483
+2011,Heroin,4452
+2012,Heroin,4354
+2013,Heroin,0
+2014,Heroin,0
+2004,Morphine,12172
+2005,Morphine,8047
+2006,Morphine,5889
+2007,Morphine,4312
+2008,Morphine,3640
+2009,Morphine,3386
+2010,Morphine,5181
+2011,Morphine,3465
+2012,Morphine,2820
+2013,Morphine,0
+2014,Morphine,0
+2004,Opium,27
+2005,Opium,20
+2006,Opium,7
+2007,Opium,14
+2008,Opium,9
+2009,Opium,5
+2010,Opium,31
+2011,Opium,7
+2012,Opium,3
+2013,Opium,0
+2014,Opium,0
+2015,Opium,0
+2016,Opium,0
+2017,Opium,0
+2018,Opium,0
+2019,Opium,0
+2004,Codeine,464
+2005,Codeine,412
+2006,Codeine,180
+2007,Codeine,91
+2008,Codeine,70
+2009,Codeine,50
+2010,Codeine,71
+2011,Codeine,11
+2012,Codeine,3
+2013,Codeine,0
+2014,Codeine,0
+2004,Marijuana,6723
+2005,Marijuana,5044
+2006,Marijuana,5275
+2007,Marijuana,3385
+2008,Marijuana,1726
+2009,Marijuana,5207
+2010,Marijuana,3011
+2011,Marijuana,1559
+2012,Marijuana,1090
+2013,Marijuana,1885
+2014,Marijuana,1919
+2015,Marijuana,1389
+2016,Marijuana,1236
+2017,Marijuana,1066
+2018,Marijuana,1122
+2019,Marijuana,755
+2013,Amphetamine-type stimulants (ATS),476
+2014,Amphetamine-type stimulants (ATS),1774
+2015,Amphetamine-type stimulants (ATS),1314
+2016,Amphetamine-type stimulants (ATS),3395
+2017,Amphetamine-type stimulants (ATS),764
+2018,Amphetamine-type stimulants (ATS),1152
+2019,Amphetamine-type stimulants (ATS),2872
+2004,Ectasy Pill,213
+2005,Ectasy Pill,395
+2006,Ectasy Pill,228
+2007,Ectasy Pill,182
+2008,Ectasy Pill,119
+2009,Ectasy Pill,83
+2010,Ectasy Pill,240
+2011,Ectasy Pill,10
+2012,Ectasy Pill,5
+2013,Ectasy Pill,0
+2014,Ectasy Pill,0
+2004,Amphetamine,74
+2005,Amphetamine,382
+2006,Amphetamine,226
+2007,Amphetamine,73
+2008,Amphetamine,225
+2009,Amphetamine,84
+2010,Amphetamine,4285
+2011,Amphetamine,60
+2012,Amphetamine,31
+2013,Amphetamine,0
+2014,Amphetamine,0
+2004,Metamphetamine,5893
+2005,Metamphetamine,3832
+2006,Metamphetamine,2411
+2007,Metamphetamine,1235
+2008,Metamphetamine,1443
+2009,Metamphetamine,1131
+2010,Metamphetamine,4026
+2011,Metamphetamine,1588
+2012,Metamphetamine,689
+2013,Metamphetamine,2901
+2014,Metamphetamine,4117
+2004,Psychotropic Pill,292
+2005,Psychotropic Pill,752
+2006,Psychotropic Pill,621
+2007,Psychotropic Pill,442
+2008,Psychotropic Pill,145
+2009,Psychotropic Pill,39
+2010,Psychotropic Pill,94
+2011,Psychotropic Pill,16
+2012,Psychotropic Pill,6
+2013,Psychotropic Pill,46
+2014,Psychotropic Pill,6
+2015,Psychotropic Pill,1
+2016,Psychotropic Pill,18
+2017,Psychotropic Pill,9
+2018,Psychotropic Pill,26
+2019,Psychotropic Pill,14
+2004,Others,18
+2005,Others,10
+2006,Others,11
+2007,Others,3
+2008,Others,1
+2009,Others,704
+2010,Others,220
+2011,Others,26
+2012,Others,14
+2013,Others,18
+2014,Others,43
+2015,Others,26
+2016,Others,23
+2017,Others,13
+2018,Others,19
+2019,Others,78
+2015,Methamphetamine (crystalline),8133
+2016,Methamphetamine (crystalline),10107
+2017,Methamphetamine (crystalline),10419
+2018,Methamphetamine (crystalline),11531
+2019,Methamphetamine (crystalline),13768
+2015,Methamphetamine (pills),0
+2016,Methamphetamine (pills),0
+2017,Methamphetamine (pills),4366
+2018,Methamphetamine (pills),4853
+2019,Methamphetamine (pills),2386
